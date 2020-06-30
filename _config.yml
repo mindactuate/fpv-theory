@@ -14,14 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: FPV Theory
+title_separator: "|"
 email: dnlgrnr911@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   FPV-Theory ist eine zweisprachige Website rundum den FPV Flug mit unbemannten Luftfahrzeugen.
   FPV-Theory is a bilingual website about FPV flight with unmanned aircraft (UAV).
 twitter_username: username
 github_username: mindactuate
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
+locale: de-DE # primary language
+repository: "mindactuate/fpv-theory"
+logo: "/assets/images/Logo_FPV-Theory.png"
 
 # Build settings
 markdown: kramdown
@@ -57,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Daniel Gruner"
+  name   : "Daniel Gruner (mindactuate)"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ich bin Techie & (Software) Ingenieur. Willkommen auf meiner Website rund um FPV. I am Techie & (Software) Engineer. Welcome on my website around FPV."
   links:
