@@ -66,7 +66,7 @@ author:
   bio    : "Ich bin Techie & (Software) Ingenieur. Willkommen auf meiner Website rund um FPV. ♦ I am Techie & (Software) Engineer. Welcome on my website around FPV."
   links:
     - label: "YouTube"
-      icon: "fab fa-fw fa-youtube-play"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCJMPjTygZalTk3uqXcDF0WQ"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -78,7 +78,7 @@ author:
 footer:
   links:
     - label: "YouTube"
-      icon: "fab fa-fw fa-youtube-play"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCJMPjTygZalTk3uqXcDF0WQ"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
